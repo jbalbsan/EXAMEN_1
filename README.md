@@ -12,7 +12,7 @@ Escribe un programa en C++ que solicite al usuario ingresar un número entero. E
 - El archivo principal es `main.cpp`, donde el usuario ingresa el número a analizar.
 - El análisis del número se realiza en el archivo `positivo_negativo_cero.cpp`, que usa una estructura `if` para determinar si el número es positivo, negativo o cero.
 
-[Ver Ejercicio 1 en GitHub](https://github.com/jbalbsan/EXAMEN/tree/Ejercicios/Ej1)
+[Ver Ejercicio 1 en GitHub](https://github.com/jbalbsan/EXAMEN_1/tree/master/Ej1)
 
 ---
 
@@ -24,7 +24,7 @@ Crea un programa en C++ que solicite al usuario ingresar un número del 1 al 7. 
 - El archivo `main.cpp` recibe el número del día de la semana.
 - En `dia_semana.cpp`, el programa usa un `switch` para convertir el número en el nombre del día de la semana. Si el número está fuera del rango de 1 a 7, muestra un mensaje de error.
 
-[Ver Ejercicio 2 en GitHub](https://github.com/jbalbsan/EXAMEN/tree/Ejercicios/Ej2)
+[Ver Ejercicio 2 en GitHub](https://github.com/jbalbsan/EXAMEN_1/tree/master/Ej2)
 
 ---
 
@@ -36,7 +36,7 @@ Un estudiante ha completado un curso de programación avanzada en C++. Durante e
 - En `main.cpp`, se ingresan las calificaciones.
 - El cálculo del promedio se realiza en `promedio_calificaciones.cpp`, y el resultado se muestra en `main.cpp`.
 
-[Ver Ejercicio 3 en GitHub](https://github.com/jbalbsan/EXAMEN/tree/Ejercicios/Ej3)
+[Ver Ejercicio 3 en GitHub](https://github.com/jbalbsan/EXAMEN_1/tree/master/Ej3)
 
 ---
 
@@ -48,9 +48,9 @@ En una tienda se ofrece una promoción en la cual el cliente puede llevarse tres
 - En `main.cpp`, se ingresan los precios de los tres artículos.
 - En `promo.cpp`, el programa usa una estructura `if` para identificar el artículo más barato y calcular el total a pagar.
 
-[Ver Ejercicio 4 en GitHub](https://github.com/jbalbsan/EXAMEN/tree/Ejercicios/Ej4)
+[Ver Ejercicio 4 en GitHub](https://github.com/jbalbsan/EXAMEN_1/tree/master/Ej4)
 
 ---
 
 ## Notas adicionales
-El repositorio principal y el archivo `README.md` se encuentran en la rama `master`. Para acceder a los ejercicios, navega a la rama `Ejercicios` y busca la carpeta correspondiente a cada número de ejercicio.
+El repositorio principal y el archivo `README.md` se encuentran en la rama `master`. Para acceder a los ejercicios, busca la carpeta correspondiente a cada número de ejercicio.
